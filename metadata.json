@@ -2,5 +2,7 @@
   "name": "Maré Solar - Biojoias & Acessórios Praianos",
   "description": "Acessórios praianos artesanais e sustentáveis com configurador interativo de conjuntos, pegada de carbono detalhada, rastreamento de frete verde em tempo real e perfil de impacto ecológico.",
   "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
 }
